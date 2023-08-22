@@ -1,0 +1,93 @@
+h1 {
+    color: mediumvioletred;
+    font-family: fantasy;
+}
+
+body{
+    background-color: pink;
+
+}
+
+.nama{
+    color: dodgerblue;
+}
+
+.panggilan{
+    color: darkorchid;
+}
+
+.kelas{
+    color: mediumspringgreen;
+}
+
+.alamat{
+    color: palegoldenrod;
+}
+
+.hobbi{
+    color: crimson;
+}
+
+.citacita{
+    color: orange;
+}
+
+.quotefav{
+    color: darkslateblue;
+}
+
+.umur{
+    color: limegreen;
+}
+
+.aktivitasdirumah{
+    color: blanchedalmond;
+}
+
+.asalsekolah{
+    color: darkorchid;
+}
+
+.sekolah{
+    color: gold;
+}
+
+.tempatlahir{
+    color: aqua;
+}
+
+.tanggallahir{
+    color: firebrick;
+}
+
+.agama{
+    color: lawngreen;
+}
+
+.warnafavorit{
+    color: lightseagreen;
+}
+
+.tinggibadan{
+    color: darkorchid;
+}
+
+.beratbadan{
+    color: khaki;
+}
+
+.jeniskelamin{
+    color: forestgreen;
+}
+
+.anakke{
+    color: aqua;
+}
+
+.notlp{
+    color: coral;
+}
+
+.instagram{
+    color: red;
+}
